@@ -31,7 +31,7 @@ function Header() {
                     <span>SERIES</span>
                 </a>
             </NavMenu>
-            <UserImg src="https://lh3.googleusercontent.com/a-/AOh14GhPEWpoUbB_IZyXZnBokOFaXzn0RKzgXo7jfxx8GQ=s96-c"/>
+            <UserImg src="/images/profilePic.png"/>
             
         </Nav>
     )
